@@ -16,4 +16,4 @@ the input. Write your code in your best programming language.
 
 ### Solution Instructions
 * Clone down repo
-* `ruby slcsp_calculator.rb plans.csv zips.csv slcsp.csv``
+* `ruby slcsp_calculator.rb plans.csv zips.csv slcsp.csv`
